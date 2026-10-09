@@ -1,0 +1,6 @@
+{
+  "name": "PyUI — Mini Python UI Framework",
+  "description": "A beginner-friendly mini UI framework built in pure Python with custom component tree, HTML renderer, state management, event dispatching, and an interactive quiz demo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

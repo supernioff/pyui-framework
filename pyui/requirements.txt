@@ -1,0 +1,4 @@
+# PyUI Requirements
+# PyUI was deliberately designed using Python's standard library (http.server, json, html, urllib).
+# No external third-party packages are required to run PyUI!
+# Python 3.8+ is recommended.
